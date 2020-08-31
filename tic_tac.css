@@ -1,0 +1,11 @@
+/* body{
+  background: url(https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/04/GettyImages-1189525615.jpg?quality=90&strip=all&zoom=1&resize=644%2C428&ssl=1)
+} */
+
+td{
+   height: 150px;
+   width:150px;
+   text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
