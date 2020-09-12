@@ -6,3 +6,6 @@ Game Rules :- single tap to get cross and double tap to get zero..
 
 One who'll connect three cross or zeros diagonally,horizontally or vertically , he/she will be the winner..
 so ...Go ahead and play 
+
+
+here is the game's link :--  https://raksha27yadav.github.io/tic_tac_toe/
