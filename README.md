@@ -8,4 +8,4 @@ One who'll connect three cross or zeros diagonally,horizontally or vertically , 
 so ...Go ahead and play 
 
 
-here is the game's link :--  https://raksha27yadav.github.io/tic_tac_toe/
+here is the game's link :--  https://raksha27yadav.github.io/tic_tac_toe/tic_tac
